@@ -1,0 +1,1 @@
+I've collected here my solutions to the classical algorithmic problems. They are just for an example of my coding skills.
